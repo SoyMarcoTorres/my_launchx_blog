@@ -1,7 +1,7 @@
 ---
 title: "Mis expectativas"
 date: 2022-03-08T18:16:21-06:00
-description: 'Conocer y aprender más acerca de JavaScript, así como el uso de frameworks. '
+description: 'Este es mi primer post de la travesía en la Misión de Backend con Node JS de Launch X.'
 ---
 
-Usa este post para anotar tus expectativas de la misión.
+Quiero conocer y aprender más acerca de JavaScript, así como el uso de diferentes frameworks que me ayuden al desarrollo. 
